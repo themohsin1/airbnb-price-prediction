@@ -1,0 +1,14 @@
+# Ignore data and models
+data/
+models/
+*.pkl
+
+# Cache and environment
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
