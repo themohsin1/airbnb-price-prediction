@@ -7,5 +7,4 @@ End-to-end Machine Learning project to predict Airbnb nightly prices using the I
 - Builds a machine learning pipeline using Random Forest
 - Deploys a prediction API using FastAPI
 
-## 🧩 Folder Structure
 
